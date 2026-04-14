@@ -1,1 +1,0 @@
-# TallerPractico01_IngenieriaInversaConXQueryYBaseX
